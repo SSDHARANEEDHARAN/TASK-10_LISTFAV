@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Adjust the root font size globally */
+body {
+  font-size: 0.875rem; /* Reduced base size */
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
